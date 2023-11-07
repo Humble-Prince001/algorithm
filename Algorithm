@@ -1,0 +1,72 @@
+1. Write an Algorithm to multiply 2 numbers and print your results.
+
+2. Write an Algorithm to count the number of characters in your name.
+
+                                  ANSWERS
+STEP 1. WRITE OUT THE FIRST NUMBER AND SECOND NUMBER
+       e.g first number 5
+           second number 2
+
+STEP 2. PERFORMING THE MULTIPLICATION 
+       e.g. 5*2 
+
+STEP 3. PRINTING THE RESULT
+       e.g 5*2=10
+
+ANSWER 2. Algorithm to Count the Number of Characters in a Name:
+
+STEP 1. WRITE THE NAME
+
+STEP 2. DETERMINE THE NUMBERS OR LETTERS IN THE NAME
+
+STEP 3. COUNT THE CHARACTERS
+
+STEP 4. ITERATE THROUGH THE CHARACTER IN THE NAME
+
+        INCREASE THE COUNT
+
+STEP 4. STOP THE COUNT
+
+STEP 5. SHOW THE RESULT 
+
+create a folder,file name .txt
+
+write down the sentence,
+determine the number of the characters
+count the characters
+increase the count
+stop the count
+store the result
+show the result
+print the result.
+
+1 create a variable to hold the sentence
+create a variable to hold character count
+read through the characters and add one to each of the character count
+on getting to full stop, then stop counting
+print character count
+
+sen=sentence
+character count=0
+add 1
+add .
+print result.
+
+
+2 create variable to hold the sentence
+create a variable to hold word count
+read through the sentence character by character
+on getting to space, add 1 to word count
+repeat step 3 and 4
+on getting to full stop,stop counting
+print word count
+
+
+3 creat a variable to hold the sentence
+create a variable to hold vowels character
+creat a variable to hold vowels count
+read through the sentence character by character and compare the character to vowel
+if the sentence character matches any of the vowels characters add 1 to vowel characters
+On reaching full stop,stop counting
+print the vowel counts.
+
